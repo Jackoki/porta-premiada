@@ -1,4 +1,4 @@
-Projeto criado com Next.js a partir do comando [`create-next-app`].
+Projeto criado com Next.js a partir do comando [`create-next-app`] e baseado no problema de Monty Hall/Porta dos Desesperados de Sérgio Malandro.
 
 ## Utilização
 
